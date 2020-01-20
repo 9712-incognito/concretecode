@@ -1,0 +1,10 @@
+thislist=["apple", "Banana", "Oranges"]
+print(thislist)
+thislist.append("Orange")
+print(thislist)
+thislist.insert(2, "cherry")
+print(thislist)
+thislist.remove("apple")
+print(thislist)
+thislist.reverse()
+print(thislist)
